@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="FTPAssembliesLocation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Customizations/bin/custom</Value>
+    </Setting>
+    <Setting Name="FTPUserName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">OcMFTPUser21195D@BBEC</Value>
+    </Setting>
+    <Setting Name="FTPHostName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">files.blackbaudhosting.com</Value>
+    </Setting>
+    <Setting Name="FTPHTMLFilesLocation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Customizations/browser/htmlforms/custom</Value>
+    </Setting>
+    <Setting Name="FTPRootFolderLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/staging/21195D</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
